@@ -1,0 +1,22 @@
+{
+  "name": "simple-transpile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raryson/simple-transpile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raryson/simple-transpile/issues"
+  },
+  "homepage": "https://github.com/raryson/simple-transpile#readme",
+  "dependencies": {
+    "typescript": "^3.1.6"
+  }
+}
